@@ -1,0 +1,32 @@
+body { 
+    background: url('lamp.jpg');
+    background-size: cover;
+    color: white;
+}
+p {
+    color: white;
+    font-weight: bold;
+}
+iframe{
+    height: 200px;
+    width: 300PX;
+}
+.contoh-link,
+.contoh-link:link,
+.contoh-link:active,
+.contoh-link:visited{
+	font-size: 20pt;
+	background: black;
+	color: #fff;
+	text-decoration: none;
+	padding: 10px;
+	font-family: sans-serif;	
+}
+ 
+.contoh-link:hover{
+	background: red;
+}
+#YTB {
+    color: white;
+    font-weight: bold;
+}
